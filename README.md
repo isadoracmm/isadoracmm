@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Isadora Carvalho</h1>
-<h3 align="center">Apaixonada por conhecimento,ciência, inovação e tecnologia</h3>
+<h3 align="center">Apaixonada por conhecimento, ciência da computação, inovação e tecnologia</h3>
 
 - 🔭 Atualmente sou estudante de Engenharia Mecânica **na UFRJ - Macaé**
 
